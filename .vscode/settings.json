@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "plyconfig.json": "jsonc",
+        "ostream": "cpp",
+        "string": "cpp"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true
+}
